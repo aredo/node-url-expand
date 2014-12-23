@@ -1,6 +1,8 @@
 node-url-expand
 ===
 
+[![npm](https://img.shields.io/npm/v/node-url-expand.svg)](https://www.npmjs.org/package/node-url-expand)
+
 Simple and efficient URL expander with http native from node.
 
 
