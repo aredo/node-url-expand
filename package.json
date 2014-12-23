@@ -1,0 +1,25 @@
+{
+  "name": "node-url-expand",
+  "version": "1.0.0",
+  "description": "Simple and efficient URL expander with http native from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aredo/node-url-expand"
+  },
+  "keywords": [
+    "url",
+    "expand",
+    "parse",
+    "expand url native"
+  ],
+  "author": "Hengki Sihombing <hengki.sihombing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aredo/node-url-expand/issues"
+  },
+  "homepage": "https://github.com/aredo/node-url-expand"
+}
